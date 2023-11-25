@@ -2,6 +2,9 @@
 module.exports = {
   content: ["*"],
   theme: {
+    fontFamily: {
+      sans: ["'League Spartan'", "sans-serif"],
+    },
     colors: {
       veryDarkMagenta: "hsl(300, 43%, 22%)",
       softPink: "hsl(333, 80%, 67%)",
