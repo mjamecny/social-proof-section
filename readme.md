@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/social-proof-section-with-tailwindcss-Dzjuk4zlHK)
 - Live Site URL: [Netlify](https://fm-challenge-social-proof.netlify.app)
 
 ## My process
